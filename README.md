@@ -1,5 +1,4 @@
-# lithic_exp_reduction
-Experimental lithic reduction data
+# Experimental lithic reduction data
 
 This dataset contains experimental lithic reduction sets produced by Sam Lin and was used in two published studies, Lin et al. (2015, 2016). 
 Each nodule reduced has an unique CORE.ID and was knapped in sequential reduction EVENTS. Each EVENT consists of the knapper removing an arbitrary number of flakes from the nodule.
