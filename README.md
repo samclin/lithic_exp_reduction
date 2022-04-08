@@ -6,5 +6,6 @@ The raw material used was flint obtained from the Dordogne region of France, as 
 Knappers who helped created this dataset include Shannon McPherron, Will Archer, Dawit Desta and Marcel Weiss.
 
 See the following references for more details about this dataset:
-Lin, S. C., McPherron, S. P., & Dibble, H. L. (2015). Establishing statistical confidence in Cortex Ratios within and among lithic assemblages: a case study of the Middle Paleolithic of southwestern France. Journal of Archaeological Science, 59, 89-109.
-Lin, S. C., Pop, C. M., Dibble, H. L., Archer, W., Desta, D., Weiss, M., & McPherron, S. P. (2016). A core reduction experiment finds no effect of original stone size and reduction intensity on flake debris size distribution. American Antiquity, 81(3), 562-575.
+
+* Lin, S. C., McPherron, S. P., & Dibble, H. L. (2015). Establishing statistical confidence in Cortex Ratios within and among lithic assemblages: a case study of the Middle Paleolithic of southwestern France. Journal of Archaeological Science, 59, 89-109.
+* Lin, S. C., Pop, C. M., Dibble, H. L., Archer, W., Desta, D., Weiss, M., & McPherron, S. P. (2016). A core reduction experiment finds no effect of original stone size and reduction intensity on flake debris size distribution. American Antiquity, 81(3), 562-575.
